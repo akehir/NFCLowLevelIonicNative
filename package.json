@@ -1,0 +1,25 @@
+{
+  "name": "@ionic-native/nfc-low-level",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "homepage": "https://github.com/akehir/NFCLowLevelIonicNative",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akehir/NFCLowLevelIonicNative"
+  },
+  "bugs": {
+    "url": "https://github.com/akehir/NFCLowLevelIonicNative/issues",
+    "email": "raphael@ochsenbe.in"
+  },
+  "author": {
+    "name": "Raphael Ochsenbein",
+    "email": "raphael@ochsenbe.in",
+    "url": "https://akehir.com/"
+  },
+  "main": "dist/nfc-low-level/index.js",
+  "typings": "dist/nfc-low-level/index.d.ts"
+}
